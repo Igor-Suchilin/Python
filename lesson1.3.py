@@ -1,5 +1,0 @@
-value = (input("Введите число"))
-n = int(value)
-nn = int(value + value)
-nnn = int(value + value + value)
-print(f"{n} + {nn} + {nnn} = {n+nn+nnn}")
